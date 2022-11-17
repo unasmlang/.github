@@ -9,5 +9,3 @@
   ·
   <a href="https://esolangs.org/wiki/Unasm">Esolangs Wiki</a>
 </h6>
-
-Unasm is a simple esolang originally created by [Normalcat](https://esolangs.org/wiki/User:Normalcat) as a joke to see how fast they could create a readable esolang.
